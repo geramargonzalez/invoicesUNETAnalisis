@@ -14,3 +14,6 @@ __pycache__/
 # Data (archivos grandes)
 *.h5
 *.hdf5
+
+
+.gradio

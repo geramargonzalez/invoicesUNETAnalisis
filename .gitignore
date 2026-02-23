@@ -1,0 +1,16 @@
+# Modelo entrenado (supera el límite de 100 MB de GitHub)
+best_unet.keras
+*.keras
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data (archivos grandes)
+*.h5
+*.hdf5
